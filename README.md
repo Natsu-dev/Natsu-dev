@@ -1,9 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Natsu-dev" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsu-dev" />
-</a>
+
 
 <!--
 **Natsu-dev/Natsu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
